@@ -24,5 +24,5 @@ Qt framework is a widget toolkit for creating graphical user interface. Well-equ
 <img src="https://user-images.githubusercontent.com/62670083/115562552-e2ef1900-a2b6-11eb-90d7-00e5affdfbcd.png" width="900" height="450">
 
 
-***
+****
 ### Documentation
