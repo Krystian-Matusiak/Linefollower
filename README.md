@@ -12,7 +12,7 @@ To process data from sensors I used STM32F303K8. This microcontroller provides a
 
 Moreover Raspberry Pi will be used to send data via sockets to remote PC. These informations will be visualised due to Qt framework.
 
-<img src="https://user-images.githubusercontent.com/62670083/115558073-a3bec900-a2b2-11eb-996d-28144064d336.PNG" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/62670083/115558073-a3bec900-a2b2-11eb-996d-28144064d336.PNG" width="1200" height="600">
 
 ### Mechanical structure
 <img src="https://user-images.githubusercontent.com/62670083/115558298-e1bbed00-a2b2-11eb-9e51-73908bf1ae6d.jpg" width="600" height="300"> 
