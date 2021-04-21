@@ -1,0 +1,8 @@
+main.c:82:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:86:6:setPWM_Motor1	16	static
+main.c:90:6:setPWM_Motor2	16	static
+main.c:95:9:mcp_read_reg	32	static
+main.c:106:6:mcp_write_reg	24	static
+main.c:120:5:main	8	static
+main.c:179:6:SystemClock_Config	96	static
+main.c:228:6:Error_Handler	4	static,ignoring_inline_asm
