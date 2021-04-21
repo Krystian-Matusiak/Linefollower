@@ -21,7 +21,7 @@ Moreover Raspberry Pi will be used to send data via sockets to remote PC. These 
 ### Graphical user interface
 Qt framework is a widget toolkit for creating graphical user interface. Well-equipped set of libraries allows quick and effective GUI development.
 
-<img src="https://user-images.githubusercontent.com/62670083/115562552-e2ef1900-a2b6-11eb-90d7-00e5affdfbcd.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/62670083/115562552-e2ef1900-a2b6-11eb-90d7-00e5affdfbcd.png" width="900" height="450">
 
 
 
