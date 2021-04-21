@@ -15,7 +15,7 @@ Moreover Raspberry Pi will be used to send data via sockets to remote PC. These 
 ![LF_PNG](https://user-images.githubusercontent.com/62670083/115558073-a3bec900-a2b2-11eb-996d-28144064d336.PNG)
 
 ### Mechanical structure
-<img src="https://user-images.githubusercontent.com/62670083/115558298-e1bbed00-a2b2-11eb-9e51-73908bf1ae6d.jpg" width="1321" height="677">
+<img src="https://user-images.githubusercontent.com/62670083/115558298-e1bbed00-a2b2-11eb-9e51-73908bf1ae6d.jpg" width="924" height="477">
 <img src="https://user-images.githubusercontent.com/62670083/115558300-e2ed1a00-a2b2-11eb-83ec-ea6341b9fce7.jpg" width="1000" height="1000">
 
 ### Documentation
