@@ -12,6 +12,8 @@ To process data from sensors I used STM32F303K8. This microcontroller provides a
 
 Moreover Raspberry Pi will be used to send data via sockets to remote PC. These informations will be visualised due to Qt framework.
 
+![LF_PNG](https://user-images.githubusercontent.com/62670083/115558073-a3bec900-a2b2-11eb-996d-28144064d336.PNG)
+
 
 ### Mechanical structure
 
